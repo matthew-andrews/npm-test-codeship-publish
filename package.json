@@ -1,0 +1,7 @@
+{
+  "name": "npm-test-codeship-publish",
+  "version": "0.0.0",
+  "devDependencies": {
+    "npm-prepublish": "^1.0.2"
+  }
+}
